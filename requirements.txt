@@ -1,0 +1,4 @@
+chess
+psutil
+pyyaml
+requests
