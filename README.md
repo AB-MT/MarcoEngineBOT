@@ -4,7 +4,7 @@ It's bot, based on [Torom's bot](https://github.com/Torom/BotLi). Running [Marco
 
 # Lichess-account
 
-Official lichess account: https://lichess.org/@/WennDieSoldatBOT. Challenge that bot only casual games(unrated). Minimal increment: 1 sec. Enjoy to play __:)__
+Official lichess account: https://lichess.org/@/WennDieSoldatBOT. Challenge that bot only casual games(unrated). Maximal increment: 3 sec. Enjoy to play __:)__
 
 # To set up on Heroku
 1. [Fork](https://github.com/WennMarcoRTX/MarcoEngineBOT/fork).
