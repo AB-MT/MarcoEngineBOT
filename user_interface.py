@@ -44,7 +44,7 @@ class UserInterface:
         print('accepting challenges ...')
 
         while self.is_running:
-            command = input()
+            command = 'matchmaking2'
             
             if command.startswith('abort'):
                 command_parts = command.split()
