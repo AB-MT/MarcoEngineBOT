@@ -1,6 +1,6 @@
 import sys
 import os
-os.system('chmod +x engines/stockfish-14_1')
+os.system('chmod +x engines/sf-12')
 
 from api import API
 from challenge_handler import Challenge_Handler
